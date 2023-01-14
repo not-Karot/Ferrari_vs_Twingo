@@ -9,7 +9,7 @@
 Design
 ------
 
-Speaking design, the Ferrari is in a league of its own. With their flowing lines, aggressive aerodynamics, and unmistakable Ferrari badges, these cars exude a sense of power and prestige that is hard to match.
+Speaking about design, the Ferrari is in a league of its own. With their flowing lines, aggressive aerodynamics, and unmistakable Ferrari badges, these cars exude a sense of power and prestige that is hard to match.
 
 ![Ferrari](https://di-uploads-pod15.dealerinspire.com/lakeforestsportscars/uploads/2020/07/1962-Ferrari-250-GTO.jpg)
 
@@ -49,7 +49,8 @@ Finally, there are the differences in price and maintenance. Ferraris are incred
 
 Comparison Table
 ----------------
-| Feature     | Ferrari                                                                     | Twingo                                      
+| Feature     | Ferrari                                                                     | Twingo
+
 |-------------|-----------------------------------------------------------------------------|--------------------------------|
 | Design      | Sleek and aggressive, exudes power and prestige                             | Understated and compact                     |
 | Performance | Powerful V8 or V12 engine, 0-60 in seconds, top speed over 200 mph          | Smaller engine, top speed around 110 mph    |
