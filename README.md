@@ -1,5 +1,4 @@
 
-# The final comparison between a Ferrari and a brand new Twingo, Shakira_vs_Clara
 =======================================================
 
 *   [Design](#design)
@@ -93,4 +92,4 @@ Conclusion
 
 In conclusion, while the Renault Twingo may be a newer, more affordable option, it simply can't compete with the legendary Ferrari when it comes to design, performance , and handling. If you are looking for a car that truly embodies success, style, and status, there's no better choice than a Ferrari. However, it is important to keep in mind that everyone has their own preferences and needs when it comes to cars, and the Renault Twingo may be a better fit for some individuals. Ultimately, the choice between a Ferrari and a Renault Twingo comes down to personal preference, budget, and intended use of the vehicle.
 
-This blog post was brought to you by Shakira's new song "For Dudes Like You"
+This blog post was brought to you in occasion of Shakira's new song.
