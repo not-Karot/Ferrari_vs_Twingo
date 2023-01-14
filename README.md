@@ -68,7 +68,4 @@ Ultimately, the choice between a Ferrari and a Renault Twingo comes down to pers
 This blog post was brought to you in occasion of Shakira's new song.
 
 
-Did you enjoy the post?
-I appreciate it so much! 
-
-[Buy me a coffe!](https://www.buymeacoffee.com/vgsp2pj68wi?new=1)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="vgsp2pj68wi" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
