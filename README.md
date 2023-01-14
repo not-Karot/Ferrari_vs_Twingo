@@ -22,7 +22,7 @@ Engine Comparison
 
 When it comes to engines, the Ferrari and the Renault Twingo are in two completely different leagues. The Ferrari is equipped with a powerful V8 or V12 engine, while the Twingo has a much smaller, more efficient engine.
 
-![Ferrari Engine](https://api.ferrari.com/cms/network/medias//resize/6093c2930abef6224c06a04d-ferrari-magazine-qNIDWx0LDp.jpg?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF&width=830&height=0) ![Renault Twingo Engine](https://www.motoresdyg.com/content/piezas/motor-renault-twingo-ii-1.2-16v-76-cv-5985-0.jpg)
+![Ferrari Engine](https://api.ferrari.com/cms/network/medias//resize/6093c2930abef6224c06a04d-ferrari-magazine-qNIDWx0LDp.jpg?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF&width=830&height=0) ![Renault Twingo Engine](https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/renault-twingo-rt-008.jpg?itok=rCuximwZ)
 
 The Ferrari engine is designed for high performance and speed, with a powerful output that allows it to reach top speeds of over 200 mph. The Twingo engine, on the other hand, is designed for fuel efficiency and maneuverability, with a smaller output that allows it to reach top speeds of around 110 mph.
 
