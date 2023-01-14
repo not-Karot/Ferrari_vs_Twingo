@@ -1,5 +1,0 @@
-img {
-  width: 50%;
-  height: auto; /* this makes the images take up the full width of the container while maintaining the aspect ratio */
-  object-fit: contain; /* this makes sure that the entire image is visible */
-}
