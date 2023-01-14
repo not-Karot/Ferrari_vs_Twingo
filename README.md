@@ -50,42 +50,13 @@ Finally, there are the differences in price and maintenance. Ferraris are incred
 
 Comparison Table
 ----------------
-
-Feature
-
-Ferari
-
-Renault Twingo
-
-Design
-
-Sleek and aggressive, exudes power and prestige
-
-Understated and compact
-
-Performance
-
-Powerful V8 or V12 engine, 0-60 in seconds, top speed over 200 mph
-
-Smaller engine, top speed around 110 mph
-
-Handling
-
-Built for speed and precision, advanced suspension and braking technologies
-
-Built for maneuverability and efficiency
-
-Price
-
-Extremely expensive, starting at over $200,000
-
-More affordable, starting at around $15,000
-
-Maintenance
-
-Regular maintenance and service required
-
-Low-maintenance option
+| Feature     | Ferrari                                                                     | Twingo                                      |   |   |
+|-------------|-----------------------------------------------------------------------------|---------------------------------------------|---|---|
+| Design      | Sleek and aggressive, exudes power and prestige                             | Understated and compact                     |   |   |
+| Performance | Powerful V8 or V12 engine, 0-60 in seconds, top speed over 200 mph          | Smaller engine, top speed around 110 mph    |   |   |
+| Handling    | Built for speed and precision, advanced suspension and braking technologies | Built for maneuverability and efficiency    |   |   |
+| Price       | Extremely expensive, starting at over $200,000                              | More affordable, starting at around $15,000 |   |   |
+| Maintenance | Regular maintenance and service required                                    | Low-maintenance option                      |   |   |
 
 Conclusion
 ----------
