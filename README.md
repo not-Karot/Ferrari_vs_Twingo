@@ -10,7 +10,7 @@
 Design
 ------
 
-When it comes to design, the Ferrari is in a league of its own. With their flowing lines, aggressive aerodynamics, and unmistakable Ferrari badges, these cars exude a sense of power and prestige that is hard to match.
+Speaking design, the Ferrari is in a league of its own. With their flowing lines, aggressive aerodynamics, and unmistakable Ferrari badges, these cars exude a sense of power and prestige that is hard to match.
 
 ![Ferrari](https://di-uploads-pod15.dealerinspire.com/lakeforestsportscars/uploads/2020/07/1962-Ferrari-250-GTO.jpg)
 
@@ -61,6 +61,14 @@ Comparison Table
 Conclusion
 ----------
 
-In conclusion, while the Renault Twingo may be a newer, more affordable option, it simply can't compete with the legendary Ferrari when it comes to design, performance , and handling. If you are looking for a car that truly embodies success, style, and status, there's no better choice than a Ferrari. However, it is important to keep in mind that everyone has their own preferences and needs when it comes to cars, and the Renault Twingo may be a better fit for some individuals. Ultimately, the choice between a Ferrari and a Renault Twingo comes down to personal preference, budget, and intended use of the vehicle.
+In conclusion, while the Renault Twingo may be a newer, more affordable option, it simply can't compete with the legendary Ferrari when it comes to design, performance , and handling. 
+If you are looking for a car that truly embodies success, style, and status, there's no better choice than a Ferrari. However, it is important to keep in mind that everyone has their own preferences and needs when it comes to cars, and the Renault Twingo may be a better fit for some individuals. 
+Ultimately, the choice between a Ferrari and a Renault Twingo comes down to personal preference, budget, and intended use of the vehicle.
 
 This blog post was brought to you in occasion of Shakira's new song.
+
+
+Did you enjoy the post?
+I appreciate it so much! 
+
+[Buy me a coffe!](https://www.buymeacoffee.com/vgsp2pj68wi?new=1)
