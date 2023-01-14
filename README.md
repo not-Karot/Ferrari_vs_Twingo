@@ -1,5 +1,4 @@
 
-=======================================================
 
 *   [Design](#design)
 *   [Engine Comparison](#engine-comparison)
@@ -50,8 +49,9 @@ Finally, there are the differences in price and maintenance. Ferraris are incred
 
 Comparison Table
 ----------------
-| Feature     | Ferrari                                                                     | Twingo                                      |
-|-------------|-----------------------------------------------------------------------------|---------------------------------------------|
+| Feature     | Ferrari                                                                     | Twingo                                      
+
+|-------------|-----------------------------------------------------------------------------|--------------------------------|
 | Design      | Sleek and aggressive, exudes power and prestige                             | Understated and compact                     |
 | Performance | Powerful V8 or V12 engine, 0-60 in seconds, top speed over 200 mph          | Smaller engine, top speed around 110 mph    |
 | Handling    | Built for speed and precision, advanced suspension and braking technologies | Built for maneuverability and efficiency    |
